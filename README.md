@@ -49,6 +49,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisha-png&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aisha-png&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aisha-png&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
