@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Aisha! [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=100px>](https://www.linkedin.com/in/aisha-mohamed-8773aa198/)
 
 
-- 🔭 Training to become a Full Stack Software Developer
+- 🔭 Training to become a Software Developer
 - 📫  How to reach me: [aisha_mo@hotmail.com](aisha_mo@hotmail.com) <br/>
 
 
