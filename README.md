@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 ## Toolbox
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=100px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=100px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=90px>
 </p>
 
 <br/>
