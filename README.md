@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=90px>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=90px>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width=90px>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width=90px>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=90px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=90px>
 </p>
 
 <br/>
